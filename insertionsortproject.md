@@ -25,8 +25,11 @@ Big-O gösterimi: O(n^2)
 
 3-)
 Time Complexity:
+
 Average Case: n(n-1) --> O(N^2)
+
 Worst Case: [27,22,18,16,6,2]   
+
 Best Case: [2,6,16,18,22,27]
 
 
